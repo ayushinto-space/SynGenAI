@@ -1,0 +1,7 @@
+# Local environment variables
+key.env
+.env
+
+# Python build artifacts
+__pycache__/
+*.pyc
