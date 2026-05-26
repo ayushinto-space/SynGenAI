@@ -1,6 +1,6 @@
 # SynGenAI | AI-Powered Synthetic Data Generator
 
-SynGenAI is a dynamic, AI-powered synthetic data engine built with Streamlit and Google GenAI SDK. Instead of using rigid templates, it utilizes `gemini-2.5-flash` to architect custom relational database schemas on the fly based on natural language user prompts further it populates the schema to generate realistic mock datasets using `Faker` and `pandas`.
+SynGenAI is a dynamic, AI-powered synthetic data generation tool built with Streamlit and Google GenAI SDK. Instead of using rigid templates it utilizes `gemini-2.5-flash` to architect custom relational database schemas on the fly based on natural language user prompts further it populates the schema to generate realistic mock datasets using `Faker` and `pandas`.
 
 ## 🚀 Features
 
