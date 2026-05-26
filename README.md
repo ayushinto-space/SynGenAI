@@ -13,5 +13,5 @@ SynGenAI is a dynamic, AI-powered synthetic data engine built with Streamlit and
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/ayushinto-space/Synthetic-Data-Generator.git](https://github.com/ayushinto-space/Synthetic-Data-Generator.git)
+git clone https://github.com/ayushinto-space/Synthetic-Data-Generator.git
 cd Synthetic-Data-Generator
